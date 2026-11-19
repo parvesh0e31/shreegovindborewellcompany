@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://parvesh0e31.github.io/shreegovindborewellcompany/sitemap.xml
